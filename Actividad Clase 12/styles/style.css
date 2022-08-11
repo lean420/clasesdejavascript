@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+body {
+  background-image: url('https://lateologia.com/wp-content/uploads/2020/10/astaroth-en-la-demonologia.jpg');
+}
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+.general {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 1.5rem;
+}
+.element {
+  width: 300px;
+  height: 300px;
+  background-color: rgb(36, 80, 36);
+  margin: 10px;
+}
+.element1 {
+  width: 300px;
+  height: 300px;
+  background-color: rgb(201, 7, 7);
+  margin: 10px;
+}
